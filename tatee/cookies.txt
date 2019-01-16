@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.freebw.com	TRUE	/	FALSE	1999999999	__cfduid	d8d8c00f9ed3b4eadb038b79fa62d4f621547623725
+
